@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Russian Roulette", "Russian Roulette\Russian Roulette.csproj", "{1FBD6AEB-630A-4E9C-B1F8-5D048D0B7C54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{8B181FBE-DAA8-4DD4-8007-8AAEDBA31F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBD6AEB-630A-4E9C-B1F8-5D048D0B7C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBD6AEB-630A-4E9C-B1F8-5D048D0B7C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBD6AEB-630A-4E9C-B1F8-5D048D0B7C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBD6AEB-630A-4E9C-B1F8-5D048D0B7C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B181FBE-DAA8-4DD4-8007-8AAEDBA31F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B181FBE-DAA8-4DD4-8007-8AAEDBA31F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B181FBE-DAA8-4DD4-8007-8AAEDBA31F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B181FBE-DAA8-4DD4-8007-8AAEDBA31F55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7722B480-5939-4CE1-988E-50D3607A6420}
+	EndGlobalSection
+EndGlobal
